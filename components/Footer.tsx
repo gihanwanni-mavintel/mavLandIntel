@@ -73,7 +73,7 @@ export default function Footer() {
               </li>
               <li>
                 <a href="#" className="text-white/80 hover:text-white transition-colors">
-                  Who It's For
+                  Who It&apos;s For
                 </a>
               </li>
               <li>

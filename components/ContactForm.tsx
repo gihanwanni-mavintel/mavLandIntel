@@ -191,7 +191,7 @@ export default function ContactForm() {
                 className="mt-1 w-5 h-5 rounded border-2 border-white/30 focus:ring-light-green"
               />
               <label htmlFor="subscribe" className="text-white text-sm">
-                I'd like to receive market updates and intelligence reports
+                I&apos;d like to receive market updates and intelligence reports
               </label>
             </div>
 
@@ -214,7 +214,7 @@ export default function ContactForm() {
             {/* Status Messages */}
             {submitStatus === 'success' && (
               <div className="bg-light-green text-white p-4 rounded-lg text-center">
-                Thank you! We'll review your request and get back to you within 24 hours.
+                Thank you! We&apos;ll review your request and get back to you within 24 hours.
               </div>
             )}
 
