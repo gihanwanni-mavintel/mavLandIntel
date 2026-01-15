@@ -48,9 +48,9 @@ export default function OutcomesSection() {
         </p>
 
         {/* Map Image */}
-        <div className="relative h-[300px] md:h-[400px] rounded-2xl overflow-hidden mb-12">
+        <div className="relative h-[300px] md:h-[400px] rounded-2xl overflow-hidden mb-12 bg-gray-200">
           <Image
-            src="https://images.unsplash.com/photo-1569163139394-de4798aa62b6?auto=format&fit=crop&w=2000&q=80"
+            src="https://images.unsplash.com/photo-1524813686514-a57563d77965?auto=format&fit=crop&w=2000&q=80"
             alt="Property map visualization"
             fill
             className="object-cover"
